@@ -1,4 +1,4 @@
-package DepositoJUnit;
+package DepositoCombustibleJUnit;
 
 import static org.junit.Assert.*;
 
